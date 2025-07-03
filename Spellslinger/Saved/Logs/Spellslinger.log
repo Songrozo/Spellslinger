@@ -2978,3 +2978,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.03-21.43.35:622][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.03-21.43.35:622][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.03-21.43.35:622][153]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.07.03-21.44.06:030][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.07.03-21.44.06:050][780]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/5M/U7Y1EKPYBJMRS94HMO8P7B_Auto1
+[2025.07.03-21.44.06:050][780]LogSavePackage: Moving '../../../../../../Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Saved/U7Y1EKPYBJMRS94HMO8P7B_Auto163431C374F2CAE29AC3EE78B8A59D551.tmp' to '../../../../../../Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/5M/U7Y1EKPYBJMRS94HMO8P7B_Auto1.uasset'
+[2025.07.03-21.44.06:052][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.057
+[2025.07.03-21.44.06:052][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
