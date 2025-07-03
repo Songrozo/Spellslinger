@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Content/Spellsinger_BP/TakeDamage_AC.uasset",
+				"C:/Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Content/Spellsinger_BP/TestDummy_BP.uasset",
+				"C:/Users/holle_csh93ye/OneDrive/Documents/GitHub/Spellslinger/Spellslinger/Content/Spellsinger_BP/ArcaneBolt_BP.uasset"
+			]
+		}
+	]
+}
